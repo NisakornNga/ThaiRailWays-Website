@@ -1,6 +1,6 @@
 # Train Ticket Booking Website  
 
-This web application was developed as part of a web programming course project. It allows users to search for train schedules, book tickets, and manage their reservations through a simple and user-friendly interface.  
+This website was developed as part of a web programming course project. It allows users to search for train schedules, book tickets, and manage their reservations through a simple and user-friendly interface.  
 
 ## Key Features  
 - **Train Schedule Search:** Find trains by entering the origin, destination, and travel date.  
